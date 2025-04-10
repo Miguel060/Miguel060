@@ -1,8 +1,7 @@
 ### 👋 Olá! Eu sou Miguel Doiche
 
-- 💻 Cientista da Computação em formação
-- 📫 Contato:[![LinkedIn](www.linkedin.com/in/miguel-doiche-576b1625a)
-
+- 💻 Cientista da Computação em formação!
+- 📫 Contato: [LinkedIn](https://www.linkedin.com/in/miguel-doiche-576b1625a)
 
 ---
 
@@ -23,5 +22,6 @@
 ---
 
 ### 🔗 Conecte-se comigo:
-[![LinkedIn](www.linkedin.com/in/miguel-doiche-576b1625a)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-doiche-576b1625a)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Miguel060)
+![snake gif](https://github.com/Miguel060/Miguel060/blob/output/github-contribution-grid-snake.svg)
