@@ -1,7 +1,8 @@
 ### 👋 Olá! Eu sou Miguel Doiche
 
 - 💻 Cientista da Computação em formação
-- 📫 Contato: [LinkedIn]([https://www.linkedin.com/in/SEU_LINKEDIN](https://www.linkedin.com/in/miguel-doiche-576b1625a/)) 
+- 📫 Contato:[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/miguel-doiche-576b1625a/)
+
 
 ---
 
